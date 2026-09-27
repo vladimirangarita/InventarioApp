@@ -1,0 +1,14 @@
+D:\platzy\Net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.exe
+D:\platzy\Net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.deps.json
+D:\platzy\Net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.runtimeconfig.json
+D:\platzy\Net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.dll
+D:\platzy\Net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.pdb
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfoInputs.cache
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfo.cs
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.csproj.CoreCompileInputs.cache
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.dll
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\refint\InventarioApp.dll
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.pdb
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.genruntimeconfig.cache
+D:\platzy\Net\Inventario\InventarioApp\obj\Debug\net10.0\ref\InventarioApp.dll
